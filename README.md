@@ -1,5 +1,5 @@
 # GoBackN-Protocol
-## Implementation of one of the theoretical concepts of Sliding Window Protocol
+## Implementation of one of the theoretical concepts of Sliding Window Protocol Go Back N (GBN)
 
 *The Motivation of this project is to develop a* **client - server socket program** *to implement Go-Back N protocol over Transmission Control Protocol (TCP)*
 
