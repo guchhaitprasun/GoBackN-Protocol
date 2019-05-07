@@ -3,7 +3,7 @@
 
 *The Motivation of this project is to develop a* **client - server socket program** *to implement Go-Back N protocol over Transmission Control Protocol (TCP)*
 
-### The Project Consist of 2 folds
+### The Project lies in 2 folds
 **Client**
 : Sends the packets as per the window size and then wait for the acknoledgement
 **Server**
